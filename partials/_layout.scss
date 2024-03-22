@@ -103,3 +103,15 @@
 
 // About
 
+.about {
+    background-color: $primary-normal;
+    overflow: hidden;
+    color: $white-normal;
+}
+
+.about-content {
+    display: flex;
+    img {
+        max-width: 570px;
+    }
+}
