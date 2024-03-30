@@ -1,6 +1,6 @@
- <img src="https://github.com/diatsilva007/Barber/blob/main/README.md%20files/devbarber.png" alt="Dev Burguer Project" width="1280" height="400">
-
  <h1 align="center"> 📂 Projeto Dev; 👨‍💻 Barbearia ✂️ </h1>
+ 
+ <img src="https://github.com/diatsilva007/Barber/blob/main/.github/DevBarbearia.gif" alt="Dev Burguer Project" width="1280" height="400">
 
  <h1 align="left"> ⬇️ Sobre </h1>
 
