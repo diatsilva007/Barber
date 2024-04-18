@@ -1,6 +1,6 @@
  <h1 align="center"> 📂 Projeto Dev; 👨‍💻 Barbearia ✂️ </h1>
  
- <img src="https://github.com/diatsilva007/Barber/blob/main/.github/DevBarbearia.gif" alt="Dev Burguer Project" width="1280" height="400">
+ <img src="https://github.com/diatsilva007/Barber/blob/main/.github/DevBarbearia.gif" alt="Dev Burguer Project" width="1280" height="350">
 
  <h1 align="left"> ⬇️ Sobre </h1>
 
@@ -20,7 +20,7 @@
 
  https://projeto-barberdev-nine.vercel.app/
 
-  # 🙅‍♂️ Autores
+  # 🙅‍♂️ Autor
 | [<img src="https://avatars.githubusercontent.com/u/143373573?v=4" width="100" height="100"><br><sub>Diogo Ataide</sub>](https://github.com/diatsilva007)
 | :---: |
 
